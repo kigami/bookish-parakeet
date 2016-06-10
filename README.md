@@ -1,2 +1,2 @@
-# bookish-parakeet
+# Sitefinity samples
 This repository contains different samples
